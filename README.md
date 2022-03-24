@@ -1,24 +1,13 @@
-# README
+# Rails Rspec
+> This project is part of Sprints Backend bootcamp.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Tools :-
+- RoR
+- Rspec
 
-Things you may want to cover:
+## Functions :-
+- Run Rspec test on `string_analyzer_spec.rb`
 
-* Ruby version
+## Screenshots :-
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img src="/screenshots/test.png" alt="att" width="200"/>
